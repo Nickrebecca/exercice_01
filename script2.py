@@ -1,0 +1,1 @@
+print("on l'amene a l'hopital");

@@ -1,0 +1,3 @@
+nom="nick";
+print(nom);
+
